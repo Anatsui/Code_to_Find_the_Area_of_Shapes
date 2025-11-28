@@ -3,4 +3,5 @@ This is Python code to calculate area of shapes
 <br>
 Author: Francis Kofi Anatsui
 <br>
-The Python code will be added soon
+The Python code has been added.
+<br>
